@@ -44,4 +44,4 @@ README.md
 
 ## Live Demo
 
-(Add Netlify URL after deployment)
+daisy-murillo-portfolio.netlify.app
